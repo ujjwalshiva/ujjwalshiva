@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ujjwal Acharya <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px"></h1>
 
 
-<p align="center">I'm just a passionate coder and a technophile. Currently pursuing B.Tech in Computer Science at IARE, Hyderabad. Technology is what drives my life everyday and I'd love to help others with the products I make. This is my Github Profile and I'd love to stuff my projects in here and refer them as archives at a later time.</p>
+<h3 align="center">I'm just a passionate coder and a technophile. Currently pursuing B.Tech in Computer Science at IARE, Hyderabad. Technology is what drives my life everyday and I'd love to help others with the products I make. This is my Github Profile and I'd love to stuff my projects in here and refer them as archives at a later time.</h3>
 <br>
 
 ### Technologies and Frameworks I've worked with: 

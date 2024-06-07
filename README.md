@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Ujjwal Acharya <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px"></h1>
+<h1 align="center">Hi, I'm Ujjwal Shivacharya <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px"></h1>
 
 
-<h3 align="center">I'm just a passionate coder and a technophile. Currently pursuing B.Tech in Computer Science at IARE, Hyderabad. Technology is what drives my life everyday and I'd love to help others with the products I make. This is my Github Profile and I'd love to stuff my projects in here and refer them as archives at a later time.</h3>
+<h3 align="center">Just a passionate developer and a technophile. Technology is what drives my life every day and I love helping others with the products I make. This is my Github Profile where I stash my projects and revisit them as legendary relics in the future ✨</h3>
 <br>
 
 ### Technologies and Frameworks I've worked with: 
@@ -17,7 +17,7 @@
 
 - 🌐 Have a look at [My Website](https://ujjwalshiva.github.io/)
 - 🔭  I’m currently learning amazing frameworks like React, VueJS
-- 🌱  Active Participant in Coding Competitions
+- 🌱  Active Participant in Coding Competitions/Hackathons
 - 💬  Ask me about **anything and everything!** Would love to collaborate and help
 - 😄  Pronouns: He/Him
 - ⚡️  Fun fact: I use a Gaming Mouse for everything except Gaming 😅 
